@@ -1,0 +1,55 @@
+/* Global Styles */
+body {
+    margin: auto;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+/* Header */
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+p.download_link {
+    color: aquamarine;
+    text-decoration: underline;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+/* Phone Video Section 
+video {
+    
+} */
+
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+/* Camp Photo Section */
+p.more_info {
+    color: gray;
+    font-size: 21px;
+}
+
+/* .photo {
+
+} */
+
+/* Coming Soon Section */
+.icon {
+    padding-top: 25px;
+}
+
+/* Footer */
+p.copyright {
+    color: gray;
+    text-align: right;
+    font-size: 21px;
+    padding-right: 10px;
+}
